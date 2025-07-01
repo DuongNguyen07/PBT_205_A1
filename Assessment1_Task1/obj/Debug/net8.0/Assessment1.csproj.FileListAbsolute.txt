@@ -1,0 +1,17 @@
+D:\Assessment1\bin\Debug\net8.0\Assessment1.exe
+D:\Assessment1\bin\Debug\net8.0\Assessment1.deps.json
+D:\Assessment1\bin\Debug\net8.0\Assessment1.runtimeconfig.json
+D:\Assessment1\bin\Debug\net8.0\Assessment1.dll
+D:\Assessment1\bin\Debug\net8.0\Assessment1.pdb
+D:\Assessment1\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Assessment1\obj\Debug\net8.0\Assessment1.csproj.AssemblyReference.cache
+D:\Assessment1\obj\Debug\net8.0\Assessment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment1\obj\Debug\net8.0\Assessment1.AssemblyInfoInputs.cache
+D:\Assessment1\obj\Debug\net8.0\Assessment1.AssemblyInfo.cs
+D:\Assessment1\obj\Debug\net8.0\Assessment1.csproj.CoreCompileInputs.cache
+D:\Assessment1\obj\Debug\net8.0\Assessme.AD7F0A3E.Up2Date
+D:\Assessment1\obj\Debug\net8.0\Assessment1.dll
+D:\Assessment1\obj\Debug\net8.0\refint\Assessment1.dll
+D:\Assessment1\obj\Debug\net8.0\Assessment1.pdb
+D:\Assessment1\obj\Debug\net8.0\Assessment1.genruntimeconfig.cache
+D:\Assessment1\obj\Debug\net8.0\ref\Assessment1.dll
