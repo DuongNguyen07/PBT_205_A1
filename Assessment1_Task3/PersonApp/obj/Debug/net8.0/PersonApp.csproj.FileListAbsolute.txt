@@ -1,0 +1,5 @@
+D:\PersonApp\obj\Debug\net8.0\PersonApp.csproj.AssemblyReference.cache
+D:\PersonApp\obj\Debug\net8.0\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfoInputs.cache
+D:\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfo.cs
+D:\PersonApp\obj\Debug\net8.0\PersonApp.csproj.CoreCompileInputs.cache
